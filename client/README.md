@@ -18,4 +18,3 @@ yarn start
 yarn build
 ```
 
-### click on other username to open a private room
