@@ -44,5 +44,5 @@ $ yarn install
 $ yarn start
 ```
 
-### click on other username in General-chat-room to open a private room
+
 
