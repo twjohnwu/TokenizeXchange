@@ -1,0 +1,13 @@
+{
+  "name": "Chat-room",
+  "env": {
+    "REDIS_ENDPOINT_URL": {
+      "description": "Redis URL.",
+      "required": true
+    },
+    "REDIS_PASSWORD": {
+      "description": "Redis password.",
+      "required": true
+    }
+  }
+}
